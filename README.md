@@ -17,7 +17,7 @@
  
  <div align="right">
  
-<img src="./infos.png" width="300px">
+<img src="./infos.png" width="250px" height="210px">
  <img algin:"top "width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-alberton&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
  <img src="https://media.giphy.com/media/zD4Dl06KyfjcmJtuik/giphy.gif" height="100px">
 
