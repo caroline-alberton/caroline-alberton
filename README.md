@@ -15,10 +15,12 @@
 <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caroline-alberton&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline's Alberton github stats"
  </div>
  
+ <div align="right">
  
-<div align="right">
- <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-alberton&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<img src="./infos.png" width="300px">
+ <img algin:"top "width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-alberton&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
  <img src="https://media.giphy.com/media/zD4Dl06KyfjcmJtuik/giphy.gif" height="100px">
+
  </div>
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=caroline-alberton&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
